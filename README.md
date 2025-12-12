@@ -1,4 +1,4 @@
-# Stock Data ETL (Beginner Project)
+# Python ETL Stock Data Project
 
 ## What it does
 A simple ETL pipeline that:
